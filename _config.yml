@@ -21,9 +21,9 @@ repository               : "ethanfan19/ethanfan19.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "IMG_2856.png"
   name             : "Wuyin Ethan Fan"
-  pronouns         : # example: "she/her"  
+  pronouns         : "he/him"  
   bio              : "Economist"
   location         : "Oxford, United Kingdom"
   employer         : "University of Oxford"
@@ -57,7 +57,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : "wuyin-ethan-fan-67b7121b8"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
