@@ -223,19 +223,30 @@ p {
 
 .research-list {
   display: grid;
-  gap: 2rem;
+  gap: 3.25rem;
 }
 
 .research-group {
   display: grid;
-  gap: 0.9rem;
+  gap: 1.15rem;
 }
 
 .research-group > h3 {
+  align-items: center;
+  color: var(--muted);
+  display: flex;
   font-size: 1rem;
+  gap: 0.9rem;
   letter-spacing: 0.06em;
   margin-bottom: 0;
   text-transform: uppercase;
+}
+
+.research-group > h3::after {
+  background: var(--line);
+  content: "";
+  flex: 1;
+  height: 1px;
 }
 
 .item {
